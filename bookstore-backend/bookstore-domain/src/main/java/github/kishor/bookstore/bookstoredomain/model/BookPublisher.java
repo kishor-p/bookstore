@@ -1,13 +1,13 @@
 package github.kishor.bookstore.bookstoredomain.model;
 
+import org.springframework.data.annotation.Id;
+
 public class BookPublisher {
 
+    @Id
     private String id;
     private String name;
     private ContactDetails contactDetails;
-
-    public BookPublisher() {
-    }
 
     public String getName() {
         return name;

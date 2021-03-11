@@ -1,0 +1,4 @@
+github\kishor\bookstore\bookstoredomain\model\BookPublisher.class
+github\kishor\bookstore\bookstoredomain\repos\BookPublisherRepository.class
+github\kishor\bookstore\bookstoredomain\config\MongoConfig.class
+github\kishor\bookstore\bookstoredomain\model\ContactDetails.class
